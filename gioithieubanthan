@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu bản thân</title>
+</head>
+
+<body>
+
+    <h1>GIỚI THIỆU BẢN THÂN</h1>
+
+    <hr>
+
+    <h3>Thông tin cá nhân</h3>
+
+    <img src="avatar.jpg"
+         alt="Ảnh đại diện của tôi"
+         width="200">
+
+    <p><strong>Họ và tên:</strong> Nguyễn Trịnh Gia Bảo</p>
+
+    <p><strong>Nghề nghiệp:</strong> Sinh viên</p>
+
+    <p><strong>Trường:</strong> Đại học Văn Hiến</p>
+
+    <p><strong>Giới thiệu:</strong>
+        Xin chào! Tôi là Nguyễn Trịnh Gia Bảo.
+        Hiện tại tôi đang là sinh viên.
+        Tôi yêu thích công nghệ và lập trình.
+    </p>
+
+    <hr>
+
+    <h3>Sở thích của tôi</h3>
+
+    <ul>
+        <li>Nghe nhạc</li>
+        <li>Xem phim</li>
+        <li>Chơi game</li>
+        <li>Đọc sách</li>
+        <li>Học lập trình</li>
+        <li>Đi du lịch</li>
+    </ul>
+
+    <hr>
+
+    <h3>Các hoạt động hằng ngày</h3>
+
+    <ol>
+        <li>Thức dậy và ăn sáng</li>
+        <li>Đi học tại trường</li>
+        <li>Ôn bài và làm bài tập</li>
+        <li>Giải trí và nghe nhạc</li>
+        <li>Đi ngủ</li>
+    </ol>
+
+    <hr>
+
+    <h3>Thời khóa biểu</h3>
+
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Thứ</th>
+            <th>Buổi sáng</th>
+            <th>Buổi chiều</th>
+        </tr>
+
+        <tr>
+            <td>Thứ 2</td>
+            <td>Học HTML</td>
+            <td>Học Java</td>
+        </tr>
+
+        <tr>
+            <td>Thứ 3</td>
+            <td>Học mạng máy tính</td>
+            <td>Làm bài tập</td>
+        </tr>
+
+        <tr>
+            <td>Thứ 4</td>
+            <td>Học lập trình</td>
+            <td>Ôn bài</td>
+        </tr>
+
+        <tr>
+            <td>Thứ 5</td>
+            <td>Học lý thuyết</td>
+            <td>Thực hành</td>
+        </tr>
+
+        <tr>
+            <td>Thứ 6</td>
+            <td>Học tại trường</td>
+            <td>Giải trí</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h3>Liên kết mạng xã hội</h3>
+
+    <p>
+        Facebook:
+        <a href="https://www.facebook.com/"
+           target="_blank">
+           Truy cập Facebook
+        </a>
+    </p>
+
+    <p>
+        YouTube:
+        <a href="https://www.youtube.com/"
+           target="_blank">
+           Truy cập YouTube
+        </a>
+    </p>
+
+    <hr>
+
+    <p>
+        <em>Cảm ơn bạn đã ghé thăm trang web giới thiệu của tôi!</em>
+    </p>
+
+</body>
+</html>
